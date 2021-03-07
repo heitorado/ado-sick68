@@ -1,6 +1,6 @@
 # Ado-SiCK-68
 
-![sick68](https://cdn.thingiverse.com/renders/f2/af/c2/ce/e6/11b1601df06621e69068389e4fb0d943_preview_featured.JPG)
+![sick68](https://github.com/heitorado/ado-sick68/blob/main/build_log/a_keyboard_is_born.JPG?raw=true)
 
 The SiCK-68 is a custom 3D printed mechanical keyboard built from scratch without the price tag often associated with one. It uses the Tada68 layout but a Teensy 2.0 as microcontroller.
 
