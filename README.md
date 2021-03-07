@@ -7,6 +7,7 @@ The SiCK-68 is a custom 3D printed mechanical keyboard built from scratch withou
 The Ado-SiCK-68 is a slightly modified version which includes:
 - Modified bottom parts of 3D printed case to fit a RGB Led stripwith 55 LEDs on the inner walls [TODO] add thingiverse link of my remix
 - QMK Configuration files with RBG enabled and keymaps to enable RGB effects and color control
+- My QMK Configurator JSON file so you can easily update the Keymap
 - [TODO] Wrist support since the keyboard got a bit taller
 - [TODO] Custom sized keys printed in the [SA Keycap Profile](https://i1.wp.com/thekeeblog.com/wp-content/uploads/2020/10/gtderEvan.png). This makes the Keyboard even taller. I'm thinking on trying out some switches on the DSA profile to see which one feels better to type.
 - [TODO] Build log with tips for people that, like me, are building their very first handwired keyboard.
