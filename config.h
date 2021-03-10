@@ -1,5 +1,5 @@
 /*
-Copyright 2020 umbynos
+Copyright 2021 heitorado
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -44,7 +44,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     { B0, B1, B2, B3, B7 }
 #define MATRIX_COL_PINS \
     { F5, F6, F7, B6, B5, B4, D7, D4, D5, C7, C6, D3, D2, D1, D0 }
-    //{ D0, D1, D2, D3, C6, C7, D5, D4, D7, B4, B5, B6, F7, F6, F5 }
 #define UNUSED_PINS
 
 /* COL2ROW, ROW2COL*/
