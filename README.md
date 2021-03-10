@@ -17,10 +17,10 @@ In this repo I have added only the modified files for building my alternate vers
 
 * Keyboard Maintainer (for this version, firmware only): [heitorado](https://github.com/heitorado)
 * Hardware Supported: Teensy 2.0
-* Hardware Availability: [files to print and documentation](https://www.thingiverse.com/thing:3478494)
+* Hardware Availability: [files to print and documentation from the original sick-68 project](https://www.thingiverse.com/thing:3478494)
 
 Make example for this keyboard (after setting up your build environment):
 
     make handwired/sick68:ado
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with the [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
