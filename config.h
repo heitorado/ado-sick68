@@ -26,7 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER 0x0001
 #define MANUFACTURER heitorado
 #define PRODUCT ado.sick68
-#define PRODUCT ADO.Sick68 Handmade Mechanical Keyboard
+#define DESCRIPTION ADO.Sick68 Handmade Mechanical Keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 5
