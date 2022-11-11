@@ -12,7 +12,7 @@ MCU = atmega32u4
 BOOTLOADER = halfkay
 
 # Build Options
-BOOTMAGIC_ENABLE = no       # Virtual DIP switch configuration
+BOOTMAGIC_ENABLE = yes       # Virtual DIP switch configuration
 MOUSEKEY_ENABLE = no       # Mouse keys
 EXTRAKEY_ENABLE = yes       # Audio control and System control
 CONSOLE_ENABLE = yes        # Console for debug
@@ -27,7 +27,6 @@ MIDI_ENABLE = no            # MIDI support
 BLUETOOTH_ENABLE = no       # Enable Bluetooth with the Adafruit EZ-Key HID
 AUDIO_ENABLE = no           # Audio output on port C6
 
-BOOTMAGIC_ENABLE = lite
 LTO_ENABLE = yes
 
 LAYOUTS = 65_ansi
