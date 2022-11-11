@@ -23,7 +23,8 @@ Make example for this keyboard (after setting up your build environment):
 
     make handwired/sick68:ado
 
-For loading the HEX file into the Teensy, you'll need the [Teensy Loader](https://www.pjrc.com/teensy/loader.html)
+For loading the HEX file into the Teensy, you'll need the [Teensy Loader](https://www.pjrc.com/teensy/loader.html).
+
 I've made a custom binding that by pressing the layer change (Fn) key + Esc you'll put Teensy into flashing mode (otherwise you would have to open the keyboard every time to flash it again). So just put Teensy into flasing mode and load the HEX file into it using the Teensy Loader :)
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with the [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
